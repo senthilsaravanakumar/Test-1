@@ -1,0 +1,86 @@
+﻿
+* {
+    margin: 0;
+   
+}
+body {
+    background: linear-gradient(to right, white, #877d7d);
+    padding: 50px;
+
+}
+
+
+h1 {
+    font-family: Arial;
+    font-size: 40Px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    color: white;
+    padding: 2px;
+    background: linear-gradient(to top right, #0026ff, #0094ff);
+}
+
+h2 {
+    font-family: Arial;
+    margin-bottom: 10px;
+}
+
+
+h3 {
+    font-family: Arial;
+    font-size: 20Px;
+    margin-bottom: 10px;
+
+}
+
+.first-class {
+    font-family: Arial;
+    font-size: 18Px;
+    margin-bottom: 15px;
+}
+
+.second-class {
+    font-family: sans-serif;
+    font-size: 18Px;
+    margin-bottom: 15px;
+}
+.third-class {
+    font-family: sans-serif;
+    font-size: 18Px;
+    margin-bottom: 15px;
+    color: #0026ff
+    }
+button {
+    font-family: sans-serif;
+    font-size: 20Px;
+    font-weight: bold;
+    background-color: #0026ff;
+    color: white;
+    cursor: pointer;
+    border: none;
+    margin-left: 20px;
+}
+.next-button {
+    padding: 5px;
+    border-radius: 5px;
+        
+}
+.prev-button {
+    padding: 5px;
+    border-radius: 5px;
+
+}
+.exit-button {
+    padding: 5px;
+    border-radius: 5px;
+ }
+
+#logo {
+
+    width: 200px;
+}
+#image-one{
+    width: 350px;
+    float:right;
+    margin-left:50px;
+}
